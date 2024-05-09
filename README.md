@@ -1,6 +1,6 @@
 - ✌🏽 Hi, I’m @MDReed2
 - 👀 I’m interested in continuous learning towards my craft, sports, health, and wealth.
-- 🌱 I’m currently learning about the basics of storytelling and Data Science.
+- 🌱 I’m currently learning about the Cybersecurity.
 - 💻 I’m looking to collaborate on MERN full stack projects
 <!-- - 📫 How to reach me  -->
 
